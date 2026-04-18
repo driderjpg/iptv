@@ -50,3 +50,5 @@ https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:-1 tvg-name="TRT COCUK" tvg-id="TRTCocuk.tr" tvg-logo="https://i.ibb.co/mbvwYMB/trt-cocuk.png" group-title="ULUSAL",TRT COCUK
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 
+#EXTINF:-1 tvg-name="BBC" tvg-id="BBC"  group-title="ULUSAL",BBC
+http://ott-cdn.ucom.am/s24/index.m3u8
