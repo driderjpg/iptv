@@ -23,3 +23,5 @@ https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
 #EXTINF:-1 tvg-name="Now TV" tvg-id="NowTV.tr"  group-title="ULUSAL",Now TV
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 
+#EXTINF:-1 tvg-name="Azad TV Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/ATV_%282012-h.h.%29.png/474px-ATV_%282012-h.h.%29.png" tvg-id="AzadTV.az" tvg-country="AZ" group-title="Azerbaijan",Azad TV Ⓢ
+https://www.tvkaista.net/stream-forwarder/get.php?x=ATVAz
