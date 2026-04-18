@@ -19,3 +19,7 @@ https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 
 #EXTINF:-1 tvg-name="CBC Sport" tvg-id="CBCSport.az"  group-title="ULUSAL",CBC Sport
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Now TV" tvg-id="NowTV.tr"  group-title="ULUSAL",Now TV
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+
